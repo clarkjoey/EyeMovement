@@ -8,7 +8,7 @@ This project is designed the interaction of Javascript and the DOM. HTML can be 
 No installation steps at this time.
 
 ## Usage: 
-This project can be used in-browser.
+This project can be used in-browser. https://clarkjoey.github.io/EyeMovement/index.html
 
 ## Support: 
 Email: joeclarkedu@yahoo.com for support
